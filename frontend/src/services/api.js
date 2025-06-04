@@ -7,6 +7,16 @@ const api = axios.create({
   },
 });
 export default class ApiService {
+  static async getCompleted() {
+    try {
+      const response = await api.get('/todo/completeds');
+      console.log('API GET Completed Response:', response.data);
+      return response.data;
+    } catch (error) {
+      console.error('API GET Completed Error:', error);
+      throw error;
+    }
+  }
   static async get() {
     try {
       const response = await api.get('/todo');
@@ -17,7 +27,15 @@ export default class ApiService {
       throw error;
     }
   }
-
+  static async put(id){
+    try {
+      const response = await api.put('/todo/complete/' + id);
+      return response.data;
+    } catch (error) {
+      console.error('API PUT Error:', error);
+      throw error;
+    }
+  }
   static async post(data) {
       const response = await api.post('/todo', data);
       try {

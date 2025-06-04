@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\backend\\ToDo.Domain\\ToDo.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\todo-docker\\backend\\ToDo.Domain\\ToDo.Domain.csproj",
       "projectName": "ToDo.Domain",
-      "projectPath": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\backend\\ToDo.Domain\\ToDo.Domain.csproj",
+      "projectPath": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\todo-docker\\backend\\ToDo.Domain\\ToDo.Domain.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\backend\\ToDo.Domain\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\todo-docker\\backend\\ToDo.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",

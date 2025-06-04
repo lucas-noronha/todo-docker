@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yrqpcSkDj8Y=",
+  "dgSpecHash": "46mM4439jI8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\backend\\ToDo.Data\\ToDo.Data.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\todo-docker\\backend\\ToDo.Data\\ToDo.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

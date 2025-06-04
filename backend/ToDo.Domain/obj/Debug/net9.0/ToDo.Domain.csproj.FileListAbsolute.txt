@@ -9,3 +9,15 @@ C:\Users\lucas\Desktop\Faculdade\Projeto Docker\backend\ToDo.Domain\obj\Debug\ne
 C:\Users\lucas\Desktop\Faculdade\Projeto Docker\backend\ToDo.Domain\obj\Debug\net9.0\refint\ToDo.Domain.dll
 C:\Users\lucas\Desktop\Faculdade\Projeto Docker\backend\ToDo.Domain\obj\Debug\net9.0\ToDo.Domain.pdb
 C:\Users\lucas\Desktop\Faculdade\Projeto Docker\backend\ToDo.Domain\obj\Debug\net9.0\ref\ToDo.Domain.dll
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\todo-docker\backend\ToDo.Domain\bin\Debug\net9.0\ToDo.Domain.deps.json
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\todo-docker\backend\ToDo.Domain\bin\Debug\net9.0\ToDo.Domain.dll
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\todo-docker\backend\ToDo.Domain\bin\Debug\net9.0\ToDo.Domain.pdb
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\todo-docker\backend\ToDo.Domain\obj\Debug\net9.0\ToDo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\todo-docker\backend\ToDo.Domain\obj\Debug\net9.0\ToDo.Domain.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\todo-docker\backend\ToDo.Domain\obj\Debug\net9.0\ToDo.Domain.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\todo-docker\backend\ToDo.Domain\obj\Debug\net9.0\ToDo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\todo-docker\backend\ToDo.Domain\obj\Debug\net9.0\ToDo.Domain.sourcelink.json
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\todo-docker\backend\ToDo.Domain\obj\Debug\net9.0\ToDo.Domain.dll
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\todo-docker\backend\ToDo.Domain\obj\Debug\net9.0\refint\ToDo.Domain.dll
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\todo-docker\backend\ToDo.Domain\obj\Debug\net9.0\ToDo.Domain.pdb
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\todo-docker\backend\ToDo.Domain\obj\Debug\net9.0\ref\ToDo.Domain.dll

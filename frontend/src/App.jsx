@@ -55,6 +55,16 @@ function App() {
     }
   }
 
+  const handleDone = (id) => async () => {
+    console.log("Marcando tarefa como concluída com ID:", id);
+    try {
+      await ApiService.put(id);
+      fetchTasks(); // Recarrega as tarefas após a atualização
+    } catch (error) {
+      console.error("Erro ao marcar tarefa como concluída:", error);
+    }
+  };
+
   return (
     <div className="app-wrapper">
       <div className="app-container">
@@ -72,6 +82,7 @@ function App() {
               id={task.id}
               title={task.title}
               description={task.task}
+              funcDone={() => handleDone(task.id)}
               funcDelete={() => handleDelete(task.id)}
             />
           ))}

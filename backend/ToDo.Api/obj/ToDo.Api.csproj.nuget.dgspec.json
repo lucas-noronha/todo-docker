@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\backend\\ToDo.Api\\ToDo.Api.csproj": {}
+    "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\todo-docker\\backend\\ToDo.Api\\ToDo.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\backend\\ToDo.Api\\ToDo.Api.csproj": {
+    "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\todo-docker\\backend\\ToDo.Api\\ToDo.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\backend\\ToDo.Api\\ToDo.Api.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\todo-docker\\backend\\ToDo.Api\\ToDo.Api.csproj",
         "projectName": "ToDo.Api",
-        "projectPath": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\backend\\ToDo.Api\\ToDo.Api.csproj",
+        "projectPath": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\todo-docker\\backend\\ToDo.Api\\ToDo.Api.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\backend\\ToDo.Api\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\todo-docker\\backend\\ToDo.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
@@ -36,8 +36,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\backend\\ToDo.Data\\ToDo.Data.csproj": {
-                "projectPath": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\backend\\ToDo.Data\\ToDo.Data.csproj"
+              "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\todo-docker\\backend\\ToDo.Data\\ToDo.Data.csproj": {
+                "projectPath": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\todo-docker\\backend\\ToDo.Data\\ToDo.Data.csproj"
               }
             }
           }
@@ -96,14 +96,14 @@
         }
       }
     },
-    "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\backend\\ToDo.Data\\ToDo.Data.csproj": {
+    "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\todo-docker\\backend\\ToDo.Data\\ToDo.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\backend\\ToDo.Data\\ToDo.Data.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\todo-docker\\backend\\ToDo.Data\\ToDo.Data.csproj",
         "projectName": "ToDo.Data",
-        "projectPath": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\backend\\ToDo.Data\\ToDo.Data.csproj",
+        "projectPath": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\todo-docker\\backend\\ToDo.Data\\ToDo.Data.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\backend\\ToDo.Data\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\todo-docker\\backend\\ToDo.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
@@ -128,8 +128,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\backend\\ToDo.Domain\\ToDo.Domain.csproj": {
-                "projectPath": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\backend\\ToDo.Domain\\ToDo.Domain.csproj"
+              "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\todo-docker\\backend\\ToDo.Domain\\ToDo.Domain.csproj": {
+                "projectPath": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\todo-docker\\backend\\ToDo.Domain\\ToDo.Domain.csproj"
               }
             }
           }
@@ -185,14 +185,14 @@
         }
       }
     },
-    "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\backend\\ToDo.Domain\\ToDo.Domain.csproj": {
+    "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\todo-docker\\backend\\ToDo.Domain\\ToDo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\backend\\ToDo.Domain\\ToDo.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\todo-docker\\backend\\ToDo.Domain\\ToDo.Domain.csproj",
         "projectName": "ToDo.Domain",
-        "projectPath": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\backend\\ToDo.Domain\\ToDo.Domain.csproj",
+        "projectPath": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\todo-docker\\backend\\ToDo.Domain\\ToDo.Domain.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\backend\\ToDo.Domain\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Desktop\\Faculdade\\Projeto Docker\\todo-docker\\backend\\ToDo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",

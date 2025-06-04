@@ -28,6 +28,12 @@ namespace ToDo.Data.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("uuid");
 
+                    b.Property<bool>("Completed")
+                        .HasColumnType("boolean");
+
+                    b.Property<DateTime>("CreatedAd")
+                        .HasColumnType("timestamp with time zone");
+
                     b.Property<string>("Task")
                         .IsRequired()
                         .HasColumnType("text");

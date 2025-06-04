@@ -22,10 +22,19 @@ namespace ToDo.Api.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            var todos = _db.ToDo.ToList();
+            var todos = _db.ToDo.Where(x => !x.Completed).ToList();
             _logger.LogInformation("Retrieved {Count} ToDo items", todos.Count);
             return Ok(todos);
         }
+
+        [HttpGet("completeds")]
+        public IActionResult GetCompleteds()
+        {
+            var todos = _db.ToDo.Where(x => x.Completed).ToList();
+            _logger.LogInformation("Retrieved {Count} ToDo items", todos.Count);
+            return Ok(todos);
+        }
+
         [HttpPost]
         public IActionResult Post([FromBody] TaskDto dto)
         {
@@ -40,22 +49,18 @@ namespace ToDo.Api.Controllers
             _logger.LogInformation("ToDo item created: {Title}", dto.Title);
             return CreatedAtAction(nameof(Get), new { id = entity.Id }, entity);
         }
-        [HttpPut("{id}")]
-        public IActionResult Put(Guid id, [FromBody] TaskDto dto)
+        [HttpPut("complete/{id}")]
+        public IActionResult Put(Guid id)
         {
-            if (dto == null)
-            {
-                return BadRequest("Invalid ToDo item.");
-            }
+
             var existingTodo = _db.ToDo.Find(id);
             if (existingTodo == null)
             {
                 return NotFound();
             }
-            existingTodo.Title = dto.Title;
-            existingTodo.Task = dto.Description;
+            existingTodo.Completed = true; // Example of updating a property
             _db.SaveChanges();
-            _logger.LogInformation("ToDo item updated: {Id}", id);
+            _logger.LogInformation("ToDo item concluded: {Id}", id);
             return NoContent();
         }
 
