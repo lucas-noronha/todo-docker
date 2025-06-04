@@ -1,0 +1,40 @@
+.app-wrapper {
+  min-width: 60vh;
+  min-height: 100vh;
+  background-color: #1e1e1e;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  padding: 2rem;
+  color: white;
+  box-sizing: border-box;
+}
+
+.app-container {
+  width: 95%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.submit-btn {
+  background-color: #3a3a3a;
+  border: 1px solid #555;
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+  margin: 0.5rem 0 1rem 0;
+}
+
+.submit-btn:hover {
+  background-color: #4a4a4a;
+}
+
+.cards {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}

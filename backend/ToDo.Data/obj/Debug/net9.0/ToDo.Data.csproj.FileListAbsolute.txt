@@ -1,0 +1,17 @@
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\backend\ToDo.Data\bin\Debug\net9.0\ToDo.Data.deps.json
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\backend\ToDo.Data\bin\Debug\net9.0\ToDo.Data.runtimeconfig.json
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\backend\ToDo.Data\bin\Debug\net9.0\ToDo.Data.dll
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\backend\ToDo.Data\bin\Debug\net9.0\ToDo.Data.pdb
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\backend\ToDo.Data\bin\Debug\net9.0\ToDo.Domain.dll
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\backend\ToDo.Data\bin\Debug\net9.0\ToDo.Domain.pdb
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\backend\ToDo.Data\obj\Debug\net9.0\ToDo.Data.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\backend\ToDo.Data\obj\Debug\net9.0\ToDo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\backend\ToDo.Data\obj\Debug\net9.0\ToDo.Data.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\backend\ToDo.Data\obj\Debug\net9.0\ToDo.Data.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\backend\ToDo.Data\obj\Debug\net9.0\ToDo.Data.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\backend\ToDo.Data\obj\Debug\net9.0\ToDo.Data.csproj.Up2Date
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\backend\ToDo.Data\obj\Debug\net9.0\ToDo.Data.dll
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\backend\ToDo.Data\obj\Debug\net9.0\refint\ToDo.Data.dll
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\backend\ToDo.Data\obj\Debug\net9.0\ToDo.Data.pdb
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\backend\ToDo.Data\obj\Debug\net9.0\ToDo.Data.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Faculdade\Projeto Docker\backend\ToDo.Data\obj\Debug\net9.0\ref\ToDo.Data.dll

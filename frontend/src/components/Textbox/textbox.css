@@ -1,0 +1,14 @@
+.textbox {
+  width: 100%;
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  background-color: #3a3a3a;
+  color: white;
+  border: 1px solid #555;
+  font-size: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.textbox::placeholder {
+  color: #bbb;
+}
